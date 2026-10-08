@@ -1,0 +1,3 @@
+# Local entity, relation, graph, and evidence retrieval use the Python
+# standard library only. Optional DeepSeek calls also use urllib.
+# No third-party package is required.

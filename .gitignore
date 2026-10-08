@@ -1,0 +1,17 @@
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+.env
+.env.*
+api_config.json
+outputs/
+checkpoints/
+*.pdparams
+*.pdopt
+*.pdmodel
+chroma_db/
+*.zip
+.DS_Store

@@ -1,0 +1,11 @@
+# scripts/run_demo.py needs only the Python standard library.
+#
+# The versions below define the target environment for the relation-model entry point.
+# The offline demo does not require these packages.
+#
+# Default install is the CPU build. Use the official CPU index shown in README.md.
+# Do not install paddlepaddle-gpu unless the machine has a matching NVIDIA driver and CUDA version.
+
+paddlepaddle==3.3.0
+paddlenlp==2.8.1
+numpy==1.26.4

@@ -1,0 +1,4 @@
+{"id":"demo-001","text":"演示用银盒呈圆形，盖面饰有莲瓣纹。","entity1":"演示用银盒","entity2":"莲瓣纹","head_type":"器物","tail_type":"纹样","relation":"外观装饰","synthetic":true}
+{"id":"demo-002","text":"演示用银盒由盒盖与盒体组成。","entity1":"演示用银盒","entity2":"盒盖","head_type":"器物","tail_type":"部件","relation":"结构部件与连接","synthetic":true}
+{"id":"demo-003","text":"盒盖以银丝编结而成。","entity1":"盒盖","entity2":"银丝","head_type":"部件","tail_type":"材料","relation":"材料构成","synthetic":true}
+{"id":"demo-004","text":"演示用银盒的提梁以焊接固定。","entity1":"提梁","entity2":"焊接","head_type":"部件","tail_type":"工艺","relation":"连接方式","synthetic":true}

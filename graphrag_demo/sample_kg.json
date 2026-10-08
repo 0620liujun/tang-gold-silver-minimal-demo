@@ -1,0 +1,93 @@
+[
+  {
+    "source_entity": "鎏金舞马衔杯纹皮囊式银壶",
+    "relation": "基本信息",
+    "target_entity": "皮囊形壶身",
+    "evidence": "演示样例：壶身呈扁圆皮囊形。",
+    "source": "demo-sample"
+  },
+  {
+    "source_entity": "鎏金舞马衔杯纹皮囊式银壶",
+    "relation": "基本信息",
+    "target_entity": "皮囊壶造型",
+    "evidence": "演示样例：造型模仿皮囊壶，此条只说明形制来源。",
+    "source": "demo-sample"
+  },
+  {
+    "source_entity": "鎏金舞马衔杯纹皮囊式银壶",
+    "relation": "结构部件与连接",
+    "target_entity": "覆莲瓣式壶盖",
+    "evidence": "演示样例：壶顶为覆莲瓣式壶盖。",
+    "source": "demo-sample"
+  },
+  {
+    "source_entity": "鎏金舞马衔杯纹皮囊式银壶",
+    "relation": "结构部件与连接",
+    "target_entity": "壶腹",
+    "evidence": "演示样例：器物具有壶腹。",
+    "source": "demo-sample"
+  },
+  {
+    "source_entity": "鎏金舞马衔杯纹皮囊式银壶",
+    "relation": "结构部件与连接",
+    "target_entity": "壶身",
+    "evidence": "演示样例：壶身与壶盖相接。",
+    "source": "demo-sample"
+  },
+  {
+    "source_entity": "鎏金舞马衔杯纹皮囊式银壶",
+    "relation": "结构部件与连接",
+    "target_entity": "银环",
+    "evidence": "演示样例：壶顶连有银环。",
+    "source": "demo-sample"
+  },
+  {
+    "source_entity": "鎏金舞马衔杯纹皮囊式银壶",
+    "relation": "结构部件与连接",
+    "target_entity": "银链",
+    "evidence": "演示样例：银环套接银链。",
+    "source": "demo-sample"
+  },
+  {
+    "source_entity": "鎏金舞马衔杯纹皮囊式银壶",
+    "relation": "外观装饰",
+    "target_entity": "衔杯舞马形象",
+    "evidence": "演示样例：壶腹饰有衔杯舞马形象。",
+    "source": "demo-sample"
+  },
+  {
+    "source_entity": "鎏金舞马衔杯纹皮囊式银壶",
+    "relation": "制作工艺",
+    "target_entity": "模压",
+    "evidence": "演示样例：纹饰制作涉及模压。",
+    "source": "demo-sample"
+  },
+  {
+    "source_entity": "鎏金舞马衔杯纹皮囊式银壶",
+    "relation": "制作工艺",
+    "target_entity": "捶击",
+    "evidence": "演示样例：纹饰制作涉及捶击。",
+    "source": "demo-sample"
+  },
+  {
+    "source_entity": "鎏金舞马衔杯纹皮囊式银壶",
+    "relation": "功能用途",
+    "target_entity": "盛酒",
+    "evidence": "演示样例：该器具在样例中标注为盛酒用具。",
+    "source": "demo-sample"
+  },
+  {
+    "source_entity": "演示用银盒",
+    "relation": "结构部件与连接",
+    "target_entity": "盒盖",
+    "evidence": "演示样例：对照银盒带有盒盖。",
+    "source": "demo-sample"
+  },
+  {
+    "source_entity": "演示用银盒",
+    "relation": "材料构成",
+    "target_entity": "银",
+    "evidence": "演示样例：对照银盒在样例中标注为银质。",
+    "source": "demo-sample"
+  }
+]
